@@ -1,0 +1,22 @@
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+
+# Log files
+*.log
+
+# Datasets (exclude if you do not want to publish them)
+True.csv
+Fake.csv
